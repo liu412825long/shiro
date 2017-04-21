@@ -15,4 +15,6 @@ git reset 测试
 
 git reset1
 
+git reset2
+
 
