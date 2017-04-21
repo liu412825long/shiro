@@ -17,4 +17,8 @@ git reset1
 
 git reset2
 
+git reset3
+
+
+
 
