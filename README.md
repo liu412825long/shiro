@@ -19,6 +19,7 @@ git reset2
 
 git reset3
 
+git reset4
 
 
 
