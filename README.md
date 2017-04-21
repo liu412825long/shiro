@@ -11,3 +11,5 @@ Eclipse 或者 IDEA
 shiro的控制结果就是，在认证失败的情况下是不能访问index页面的，会自动跳转到login页面。
 该项目框架后续会继续完善。
 
+git reset 测试
+
